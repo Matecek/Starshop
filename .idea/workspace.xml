@@ -4,13 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5316f731-ed53-4475-82d7-264fce1fcad1" name="Changes" comment="Debug">
-      <change afterPath="$PROJECT_DIR$/src/Model/Starship.php" afterDir="false" />
+    <list default="true" id="5316f731-ed53-4475-82d7-264fce1fcad1" name="Changes" comment="services">
+      <change afterPath="$PROJECT_DIR$/src/Repository/StarshipRepository.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Controller/MainController.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controller/MainController.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Controller/StarshipApiController.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controller/StarshipApiController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/symfony.lock" beforeDir="false" afterPath="$PROJECT_DIR$/symfony.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/main/homepage.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/main/homepage.html.twig" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -144,7 +143,7 @@
       <workItem from="1750677154661" duration="1351000" />
       <workItem from="1750755909293" duration="11045000" />
       <workItem from="1751436548504" duration="5261000" />
-      <workItem from="1751451418393" duration="692000" />
+      <workItem from="1751451418393" duration="5677000" />
     </task>
     <task id="LOCAL-00001" summary="Config">
       <option name="closed" value="true" />
@@ -186,7 +185,23 @@
       <option name="project" value="LOCAL" />
       <updated>1751437316389</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="API JSON">
+      <option name="closed" value="true" />
+      <created>1751452140385</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1751452140385</updated>
+    </task>
+    <task id="LOCAL-00007" summary="services">
+      <option name="closed" value="true" />
+      <created>1751453674919</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1751453674919</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -213,7 +228,9 @@
     <MESSAGE value="Config" />
     <MESSAGE value="Dodanie homepage" />
     <MESSAGE value="Debug" />
-    <option name="LAST_COMMIT_MESSAGE" value="Debug" />
+    <MESSAGE value="API JSON" />
+    <MESSAGE value="services" />
+    <option name="LAST_COMMIT_MESSAGE" value="services" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
