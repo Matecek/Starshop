@@ -4,11 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5316f731-ed53-4475-82d7-264fce1fcad1" name="Changes" comment="find">
-      <change afterPath="$PROJECT_DIR$/src/Controller/StarshipController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/starship/show.html.twig" afterDir="false" />
+    <list default="true" id="5316f731-ed53-4475-82d7-264fce1fcad1" name="Changes" comment="Show app">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Starshop.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Starshop.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/main/homepage.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/main/homepage.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/bundles.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/bundles.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/symfony.lock" beforeDir="false" afterPath="$PROJECT_DIR$/symfony.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/base.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html.twig" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,6 +96,12 @@
       <path value="$PROJECT_DIR$/vendor/symfony/type-info" />
       <path value="$PROJECT_DIR$/vendor/doctrine/deprecations" />
       <path value="$PROJECT_DIR$/vendor/phpstan/phpdoc-parser" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-client-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/asset-mapper" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-client" />
+      <path value="$PROJECT_DIR$/vendor/symfony/asset" />
+      <path value="$PROJECT_DIR$/vendor/symfonycasts/tailwind-bundle" />
+      <path value="$PROJECT_DIR$/vendor/symfony/process" />
     </include_path>
   </component>
   <component name="ProjectColorInfo">{
@@ -119,6 +130,12 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\mateusz.wojtas\Desktop\Priv\PHP Symfony\Starshop\assets" />
+      <recent name="C:\Users\mateusz.wojtas\Desktop\Priv\PHP Symfony\Starshop" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -143,7 +160,7 @@
       <workItem from="1750755909293" duration="11045000" />
       <workItem from="1751436548504" duration="5261000" />
       <workItem from="1751451418393" duration="692000" />
-      <workItem from="1751541209505" duration="2124000" />
+      <workItem from="1751541209505" duration="6076000" />
     </task>
     <task id="LOCAL-00001" summary="Config">
       <option name="closed" value="true" />
@@ -217,7 +234,15 @@
       <option name="project" value="LOCAL" />
       <updated>1751464453286</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Show app">
+      <option name="closed" value="true" />
+      <created>1751545779466</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1751545779466</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -247,17 +272,7 @@
     <MESSAGE value="services" />
     <MESSAGE value="Get" />
     <MESSAGE value="find" />
-    <option name="LAST_COMMIT_MESSAGE" value="find" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="php">
-          <url>file://$PROJECT_DIR$/templates/main/homepage.html.twig</url>
-          <line>9</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="Show app" />
+    <option name="LAST_COMMIT_MESSAGE" value="Show app" />
   </component>
 </project>
