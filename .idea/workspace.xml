@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5316f731-ed53-4475-82d7-264fce1fcad1" name="Changes" comment="Get">
-      <change beforePath="$PROJECT_DIR$/src/Controller/StarshipApiController.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controller/StarshipApiController.php" afterDir="false" />
+    <list default="true" id="5316f731-ed53-4475-82d7-264fce1fcad1" name="Changes" comment="find">
+      <change afterPath="$PROJECT_DIR$/src/Controller/StarshipController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/starship/show.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/main/homepage.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/main/homepage.html.twig" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -140,6 +143,7 @@
       <workItem from="1750755909293" duration="11045000" />
       <workItem from="1751436548504" duration="5261000" />
       <workItem from="1751451418393" duration="692000" />
+      <workItem from="1751541209505" duration="2124000" />
     </task>
     <task id="LOCAL-00001" summary="Config">
       <option name="closed" value="true" />
@@ -205,7 +209,15 @@
       <option name="project" value="LOCAL" />
       <updated>1751464008698</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="find">
+      <option name="closed" value="true" />
+      <created>1751464453286</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1751464453286</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -234,7 +246,8 @@
     <MESSAGE value="Debug" />
     <MESSAGE value="services" />
     <MESSAGE value="Get" />
-    <option name="LAST_COMMIT_MESSAGE" value="Get" />
+    <MESSAGE value="find" />
+    <option name="LAST_COMMIT_MESSAGE" value="find" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
