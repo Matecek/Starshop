@@ -4,23 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5316f731-ed53-4475-82d7-264fce1fcad1" name="Changes" comment="Show app">
-      <change afterPath="$PROJECT_DIR$/.symfony.local.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Starshop.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Starshop.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+    <list default="true" id="5316f731-ed53-4475-82d7-264fce1fcad1" name="Changes" comment="Assets">
+      <change afterPath="$PROJECT_DIR$/templates/main/_shipStatusAside.html.twig" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/styles/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/styles/app.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/bundles.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/bundles.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/symfony.lock" beforeDir="false" afterPath="$PROJECT_DIR$/symfony.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/base.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html.twig" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/main/homepage.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/main/homepage.html.twig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/starship/show.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/starship/show.html.twig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutorial/templates/base.html.twig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutorial/templates/main/homepage.html.twig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutorial/templates/starship/show.html.twig" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,14 +16,11 @@
   </component>
   <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
-    <execution>
-      <executable path="composer" />
-    </execution>
+    <execution />
   </component>
   <component name="Git.Settings">
     <branch-grouping />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="RESET_MODE" value="MIXED" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -50,7 +34,7 @@
     &quot;accountId&quot;: &quot;58c4e1bc-6ed4-4c0d-8363-607a5df2e20c&quot;
   }
 }</component>
-  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="/opt/homebrew/Cellar/php/8.4.10/bin/php">
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="C:\php\php-8.3.16\php.exe">
     <include_path>
       <path value="$PROJECT_DIR$/vendor/psr/cache" />
       <path value="$PROJECT_DIR$/vendor/psr/event-dispatcher" />
@@ -114,9 +98,6 @@
       <path value="$PROJECT_DIR$/vendor/symfonycasts/tailwind-bundle" />
     </include_path>
   </component>
-  <component name="ProblemsViewState">
-    <option name="selectedTabId" value="ProjectErrors" />
-  </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 1
@@ -126,30 +107,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/mateusz.wojtas/Desktop/Priv/PHP Symfony/Starshop&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/mateusz.wojtas/Desktop/Priv/PHP Symfony/Starshop",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.HTML",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/templates/main" />
-      <recent name="$PROJECT_DIR$/templates/starship" />
-      <recent name="$PROJECT_DIR$/templates" />
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/assets" />
+      <recent name="C:\Users\mateusz.wojtas\Desktop\Priv\PHP Symfony\Starshop\vendor\bin" />
+      <recent name="C:\Users\mateusz.wojtas\Desktop\Priv\PHP Symfony\Starshop\assets" />
+      <recent name="C:\Users\mateusz.wojtas\Desktop\Priv\PHP Symfony\Starshop" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -176,9 +155,8 @@
       <workItem from="1750755909293" duration="11045000" />
       <workItem from="1751436548504" duration="5261000" />
       <workItem from="1751451418393" duration="692000" />
-      <workItem from="1751573523031" duration="316000" />
-      <workItem from="1751573839923" duration="936000" />
-      <workItem from="1751575318458" duration="1326000" />
+      <workItem from="1751541209505" duration="6076000" />
+      <workItem from="1751608471762" duration="3150000" />
     </task>
     <task id="LOCAL-00001" summary="Config">
       <option name="closed" value="true" />
@@ -244,15 +222,23 @@
       <option name="project" value="LOCAL" />
       <updated>1751464008698</updated>
     </task>
-    <task id="LOCAL-00009" summary="Show app">
+    <task id="LOCAL-00009" summary="find">
       <option name="closed" value="true" />
-      <created>1751573897236</created>
+      <created>1751464453286</created>
       <option name="number" value="00009" />
       <option name="presentableId" value="LOCAL-00009" />
       <option name="project" value="LOCAL" />
-      <updated>1751573897236</updated>
+      <updated>1751464453286</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Show app">
+      <option name="closed" value="true" />
+      <created>1751545779466</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1751545779466</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -281,6 +267,7 @@
     <MESSAGE value="Debug" />
     <MESSAGE value="services" />
     <MESSAGE value="Get" />
+    <MESSAGE value="find" />
     <MESSAGE value="Show app" />
     <option name="LAST_COMMIT_MESSAGE" value="Show app" />
   </component>
